@@ -1,6 +1,6 @@
 # Introduction
 
-This is a config file for the Arch PKGBUILD source of the [Zen Kernel](https://github.com/zen-kernel/zen-kernel) with configurations intended to improve performance on my Dell 3100 Chromebook, which runs Arch. If you've somehow landed here looking for how to do this, [MrChromebox's](https://docs.mrchromebox.tech/) tools for installing a custom bootloader (`coreboot`) will help you wave that warranty goodbye.
+This is a config file for the Arch PKGBUILD source of the [Zen Kernel](https://github.com/zen-kernel/zen-kernel) with configurations intended to improve performance on my Dell 3100 Chromebook, which runs Arch. If you've somehow landed here looking for how to do this, [MrChromebox's](https://docs.mrchromebox.tech/) tools for installing a custom firmware (`coreboot`) will help you wave that warranty goodbye.
 
 To get full-fat Linux on this Chromebook, you'll need two USB 3.0 (important!) sticks, one big enough for the installer, one to install it on to - the 16GB MMC inside won't cut it. SanDisk do a very nice one that sits almost flush.
 
